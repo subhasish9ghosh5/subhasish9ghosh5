@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="300" src="chakra.gif">
+  <img width="600" height="300" src="github profile.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Subhasish Ghosh</h1>
