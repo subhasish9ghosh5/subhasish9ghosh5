@@ -1,4 +1,6 @@
-(img align="right" alt="Coding" width="400" src="chakra.gif")
+<p align="center">
+  <img width="600" height="300" src="chakra.gif">
+</p>
 
 ### Hi there 👋
 
